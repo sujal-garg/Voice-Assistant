@@ -1,2 +1,2 @@
 # Assistant-
-This is a python based voice assistant  (still under development)
+This is a python based voice assistant  (functional but is still under development)
